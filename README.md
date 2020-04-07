@@ -1,2 +1,2 @@
 # VirtualKeyboard
-RSS Виртуальная клавиатура
+RSS Виртуальная клавиатура: https://kostyakulak.github.io/VirtualKeyboard
