@@ -1,7 +1,2 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/$CACHE_FILE$
-.idea/.gitignore
-.idea/VirtualKeyboard.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+.idea/*
